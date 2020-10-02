@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/tahseen-hameed',
-        twitter: 'https://twitter.com/tahseen31khan',
-        github: 'https://github.com/tahseen31',
+        linkedin: 'tahseen-hameed',
+        twitter: 'tahseen31khan',
+        github: 'tahseen31',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
